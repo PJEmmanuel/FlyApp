@@ -27,4 +27,4 @@ FlyApp es una aplicación para Android que permite a los usuarios buscar vuelos 
 ## Fuente de inspiración
 
 Este proyecto se basa en el siguiente codelab de Android Developers:
-Flight Search App - Android Basics with Compose
+[Flight Search App - Android Basics with Compose](https://developer.android.com/courses/pathways/android-basics-compose-unit-6-pathway-3?hl=es-419#codelab-https://developer.android.com/codelabs/basic-android-kotlin-compose-flight-search)
